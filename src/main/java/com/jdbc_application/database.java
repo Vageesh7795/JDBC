@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 public class database {
-    String password = "Vageesh@123";
+    String password = "Nandha@25";
 
     public void put_data(String Username, String Password, String date_of_birth) throws Exception {
         Class.forName("com.mysql.cj.jdbc.Driver");
